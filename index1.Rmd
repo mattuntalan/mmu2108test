@@ -10,18 +10,3 @@ output:
 # This is Matt's awesome website
 
 ![](https://media-exp1.licdn.com/dms/image/C4D03AQEvOkqhnLF9tA/profile-displayphoto-shrink_800_800/0/1524590976889?e=2147483647&v=beta&t=Hd8CXvdukvoNOBttv1FedM3-Lw7m1HYjjZE08h5ZveI)
-
-name: "Yay internet!"
-output_dir: "."
-navbar:
-  title: "Home"
-  right:
-    - text: "About"
-      href: about.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<mmu2108@columbia.edu
-    - icon: fa-github fa-lg
-      href: http://github.com/mmu2108test/
-output:
-  html_document:
-    theme: cerulean
