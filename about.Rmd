@@ -1,5 +1,5 @@
 ---
-title: "Matt's Website"
+title: "About Page"
 output: 
   html_document:
     toc: true
@@ -7,8 +7,8 @@ output:
     theme: cerulean
 ---
 
-# This is Matt's awesome website
+# About Content
 
 ![](https://media-exp1.licdn.com/dms/image/C4D03AQEvOkqhnLF9tA/profile-displayphoto-shrink_800_800/0/1524590976889?e=2147483647&v=beta&t=Hd8CXvdukvoNOBttv1FedM3-Lw7m1HYjjZE08h5ZveI)
 
-[about](about.html)
+
